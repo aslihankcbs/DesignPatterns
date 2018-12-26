@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AdapterPattern.DbError" BaseTypeListCollapsed="true">
+    <Position X="4.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAgAAAEAgAAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>IErrorModel.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.638" />
+  </Class>
+  <Class Name="AdapterPattern.ServiceError" BaseTypeListCollapsed="true">
+    <Position X="1.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAgAAAEAgAAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>IErrorModel.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.658" />
+  </Class>
+  <Class Name="AdapterPattern.FaxAdapter" BaseTypeListCollapsed="true">
+    <Position X="7.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAgAAAAAgAAAAAAAAAAAAAAAIAAAAAAAAA=</HashCode>
+      <FileName>IErrorModel.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="AdapterPattern.Fax">
+    <Position X="7.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAEAABAAAAAAAAAEAAAAAAAAAAAA=</HashCode>
+      <FileName>IErrorModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AdapterPattern.Program">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="AdapterPattern.IErrorModel">
+    <Position X="3.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAgAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IErrorModel.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,7 @@
+C:\Users\Aslıhan\source\repos\AdapterPattern\AdapterPattern\bin\Release\AdapterPattern.exe.config
+C:\Users\Aslıhan\source\repos\AdapterPattern\AdapterPattern\bin\Release\AdapterPattern.exe
+C:\Users\Aslıhan\source\repos\AdapterPattern\AdapterPattern\bin\Release\AdapterPattern.pdb
+C:\Users\Aslıhan\source\repos\AdapterPattern\AdapterPattern\obj\Release\AdapterPattern.csproj.CoreCompileInputs.cache
+C:\Users\Aslıhan\source\repos\AdapterPattern\AdapterPattern\obj\Release\AdapterPattern.exe
+C:\Users\Aslıhan\source\repos\AdapterPattern\AdapterPattern\obj\Release\AdapterPattern.pdb
+C:\Users\Aslıhan\source\repos\AdapterPattern\AdapterPattern\obj\Release\AdapterPattern.csprojAssemblyReference.cache
